@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWithMovieScaffcolding", "CrudWithMovieScaffcolding\CrudWithMovieScaffcolding.csproj", "{353ED525-2F64-4B15-B522-179FE5FE69A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.DataServices", "Movie.DataServices\Movie.DataServices.csproj", "{9530E725-4C64-4C41-BB6E-3073B186D7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353ED525-2F64-4B15-B522-179FE5FE69A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353ED525-2F64-4B15-B522-179FE5FE69A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353ED525-2F64-4B15-B522-179FE5FE69A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353ED525-2F64-4B15-B522-179FE5FE69A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9530E725-4C64-4C41-BB6E-3073B186D7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9530E725-4C64-4C41-BB6E-3073B186D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9530E725-4C64-4C41-BB6E-3073B186D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9530E725-4C64-4C41-BB6E-3073B186D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@CrudWithMovieScaffcolding_HostAddress = http://localhost:5142
+
+GET {{CrudWithMovieScaffcolding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
